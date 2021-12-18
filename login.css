@@ -25,7 +25,7 @@ form h1 {
 }
 
 .row {
-    width: 400px;
+    width: 350px;
     margin: auto;
     position: relative;
 }
@@ -46,7 +46,7 @@ form h1 {
 }
 
 .form-group a:hover {
-    color: #eee;
+    color: #333;
 }
 
 .btn {
